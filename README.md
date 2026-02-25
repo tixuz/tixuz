@@ -1,11 +1,3 @@
-It’s a pleasure to help you refine this, Dr. Madraimov. Your background is a fascinating intersection of deep academic roots (Sufism, Ottoman history) and modern technical agility.
-
-To make this "search-friendly" for recruiters or collaborators, we need to lean into your **Full-Stack/AI engineering** focus while keeping that unique "sabor" of your diverse life journey—from the aircraft plants of Tashkent to the coastal runs in Viña del Mar and your current base in Antalya.
-
-Here is a sophisticated, professional, yet deeply personal version of your README.
-
----
-
 # 👨‍💻 Dr. Khindol Madraimov (@tixuz)
 
 **PhD | Full-Stack Developer | AI Research Architect**
